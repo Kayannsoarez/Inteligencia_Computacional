@@ -13,3 +13,6 @@ Os dados contêm parâmetros de qualidade da água de diferentes rios da Índia.
 * PH: Valor médio de pH.
 * Conductivity: Valor médio de condutividade.
 * BOD: Valor médio da demanda bioquímica de oxigênio.
+* NITRATE_N_NITRITE_N: Valor médio de nitrato-n e nitrito-n
+* FECAL_COLIFORM: Valor médio de coliformes fecais
+* TOTAL_COLIFORM: Valor médio de coliformes totais
