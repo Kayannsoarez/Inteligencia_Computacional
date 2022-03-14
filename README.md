@@ -16,3 +16,15 @@ Os dados contêm parâmetros de qualidade da água de diferentes rios da Índia.
 * NITRATE_N_NITRITE_N: Valor médio de nitrato-n e nitrito-n
 * FECAL_COLIFORM: Valor médio de coliformes fecais
 * TOTAL_COLIFORM: Valor médio de coliformes totais
+
+## Homework 1
+Data analysis
+
+## Homework 2
+Models for regression
+
+## Homework 3
+Models for classification
+
+
+
